@@ -113,4 +113,4 @@ This configuration provides the following output variables:
 - **Apply errors**: Double-check the `ami_id` and region configuration.
 - **Validation failures**: Run `terraform fmt` to clean code and `terraform validate` to spot any syntax errors.
 
-Feel free to reach out for any questions or clarifications.
+Feel free to try out the code yourself, run it and customize the code as you please! Also, DO NOT FORGET to destroy all resources if you are testing this on a live AWS account! 
